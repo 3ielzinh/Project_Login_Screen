@@ -8,16 +8,12 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header></header>
-    <main>
-        <form action="">
-            <h3>Insira o seu login</h3>
-            <input type="text" placeholder="Login" id="Login">
-            <input type="password" placeholder="Senha" id="Senha">
-            <input type="submit" value="Entrar" onclick="logar(); return false">
-        </form>
-    </main>
-    <footer></footer>
+    <form action="">
+        <h3>Insira o seu login</h3>
+        <input type="text" placeholder="Login" id="Login">
+        <input type="password" placeholder="Senha" id="Senha">
+        <input type="submit" value="Entrar" onclick="logar(); return false">
+    </form>
     <script>
         function logar() {
             var Login = document.getElementById('Login').value;
