@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0093E9&height=170&section=header&text=&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&fontAlign=80"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0093E9&size=35&center=true&vCenter=true&width=1000&lines=Hi+folks!;+Welcome+to+my+GameShop+project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0093E9&size=35&center=true&vCenter=true&width=1000&lines=Hi+folks!;+Welcome+to+my+Repository)](https://git.io/typing-svg)
 
 # Preview
 ![Design sem nome (8)](https://github.com/3ielzinh/Project-GameShop/assets/110487772/20febc17-ccf5-4d07-a608-32e3a8b21505)
